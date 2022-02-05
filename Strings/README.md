@@ -1,7 +1,6 @@
 # Roadmap
 
-Codencode string Algorithms
-Lovebabbar
-Rabin Karp Algo
-
-Trie - Codencode + Lovebabbar
+1. Codencode string Algorithms
+2. Lovebabbar
+3. Rabin Karp Algo
+4. Trie - Codencode + Lovebabbar

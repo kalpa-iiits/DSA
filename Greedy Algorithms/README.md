@@ -1,4 +1,4 @@
 # Roadmap
 
-Striver Playlist
-Lovebabbar
+1. Striver Playlist
+2. Lovebabbar

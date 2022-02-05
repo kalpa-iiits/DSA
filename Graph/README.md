@@ -1,6 +1,6 @@
 # Roadmap
 
-Striver Playlist
-Tech Dose Playlist
-Codencode playlist 1 + 2
-CSES problem set
+1. Striver Playlist
+2. Tech Dose Playlist
+3. Codencode playlist 1 + 2
+4. CSES problem set

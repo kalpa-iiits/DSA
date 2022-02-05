@@ -1,3 +1,3 @@
 # Roadmap
 
-Striver Playlist
+1. Striver Playlist

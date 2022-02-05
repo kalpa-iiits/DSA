@@ -1,5 +1,5 @@
 # Roadmap
 
-Striver Playlist
-CSES
-Swap sort Aditya Verma
+1. Striver Playlist
+2. CSES
+3. Swap sort Aditya Verma

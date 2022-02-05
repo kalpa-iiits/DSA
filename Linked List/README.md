@@ -1,4 +1,4 @@
 # Roadmap
 
-Striver Playlist
-2-pointers striver
+1. Striver Playlist
+2. 2-pointers striver

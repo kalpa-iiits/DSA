@@ -1,5 +1,5 @@
 # Roadmap
 
-Striver Playlist
-Tree DP codencode
-Segment Trees Codencode
+1. Striver Playlist
+2. Tree DP codencode
+3. Segment Trees Codencode

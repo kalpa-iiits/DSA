@@ -1,5 +1,5 @@
 # Roadmap
 
-Striver Playlist
-Aditya Verma
-ITMO pilot course
+1. Striver Playlist
+2. Aditya Verma
+3. ITMO pilot course

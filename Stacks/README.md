@@ -1,4 +1,4 @@
 # Roadmap
 
-Striver Playlist
-Aditya Verma
+1. Striver Playlist
+2. Aditya Verma
