@@ -23,7 +23,7 @@ vector<int> nsl_index(int arr[], int n){
     }
    s1.push({arr[i],i});
   }
-    return res;
+  return res;
 }
 
 vector<int> nsr_index(int arr[], int n){
@@ -68,7 +68,7 @@ int main(){
   int n = sizeof(arr)/sizeof(arr[0]);
 
   int area =  max_area_of_histogram(arr,n);
-  cout << area << " ";
+  cout << area;
 
   return 0;
 }
